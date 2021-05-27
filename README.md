@@ -75,6 +75,7 @@ Enables `/ping` for players to get their ping.
   * It has an accompanying command  
   
 ## comparatorReadsClock
+`Disabled` |
 Allows Comparators to read the daytime instead of the rotation of clocks in item frames.  
 * Type: `boolean`  
 * Default value: `false`  

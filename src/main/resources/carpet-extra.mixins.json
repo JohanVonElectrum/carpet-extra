@@ -13,7 +13,6 @@
     "TurtleMateGoalMixin",
     "AbstractPressurePlateBlock_variableWoodMixin",
     "AbstractButtonBlock_variableWoodMixin",
-    "ItemFrameEntity_comparatorReadsClockMixin",
     "ItemStackMixin",
     "ThrownEntityMixin",
     "BlockItemMixin_accurateBlockPlacement",

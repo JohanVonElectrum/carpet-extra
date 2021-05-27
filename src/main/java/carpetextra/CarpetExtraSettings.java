@@ -75,11 +75,11 @@ public class CarpetExtraSettings
     public static boolean variableWoodDelays = false;
 
 
-    @Rule(
-        desc = "Allows Comparators to read the daytime instead of the rotation of clocks in item frames.",
-        category = {FEATURE,EXTRA,EXPERIMENTAL}
-    )
-    public static boolean comparatorReadsClock = false;
+//    @Rule(
+//        desc = "Allows Comparators to read the daytime instead of the rotation of clocks in item frames.",
+//        category = {FEATURE,EXTRA,EXPERIMENTAL}
+//    )
+//    public static boolean comparatorReadsClock = false;
 
     @Rule(
         desc = "Makes Hopper Minecarts have an 8gt cooldown like hoppers.",
